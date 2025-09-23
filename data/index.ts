@@ -76,7 +76,7 @@ export const projects = [
     des: "The Ultimate Auto Repair Workshop Management Solution. Development of a flexible and highly customizable design system using Next.js for front-end and ASP.NET for backend structure.",
     img: "/cover-01.webp",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    link: "/ui.autofixia.com",
   },
   {
     id: 2,
@@ -84,7 +84,7 @@ export const projects = [
     des: "A modern website built for an emerging school system.",
     img: "/cover-02.webp",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    link: "/ui.royal-school.com",
   },
   {
     id: 3,
@@ -92,48 +92,48 @@ export const projects = [
     des: "Built a custom Zapier web application to automate workflows and connect third-party services.",
     img: "/zapier.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
+    link: "/ui.zapier.com",
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+    title: "E-Commerce Website",
+    des: "Developed a modern eCommerce platform with product listings, cart functionality, and secure checkout.",
     img: "/fortTeam.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    link: "/ui.fort-team.com",
   },
 ];
 
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with Ammar was smooth and productive. He quickly understood our requirements and delivered a clean, user-friendly solution ahead of schedule.",
+    name: "Sarah Mitchell",
+    title: "Project Manager at TechWave Solutions",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Ammar is a skilled developer who pays close attention to detail. His ability to solve complex problems and communicate effectively made our collaboration seamless.",
+    name: "James Carter",
+    title: "CTO of BrightMind Innovations",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "I was impressed by Ammar's dedication and creativity. He transformed our vision into a functional app with an elegant design that exceeded expectations.",
+    name: "Emily Rodriguez",
+    title: "Founder of StartupSphere",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Ammar consistently delivered high-quality work and was always proactive in suggesting improvements. His professionalism made the whole process enjoyable.",
+    name: "David Lee",
+    title: "Senior Engineer at CloudBridge Systems",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "From start to finish, Ammar demonstrated strong technical expertise and great problem-solving skills. I’d definitely recommend him for any frontend or full-stack projects.",
+    name: "Sophia Patel",
+    title: "CEO of NovaCore Digital",
   },
 ];
 
@@ -180,8 +180,8 @@ export const workExperience = [
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "Associate Software Engineer",
+    desc: "Developed and maintained scalable web and mobile applications using modern frameworks.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
@@ -194,7 +194,7 @@ export const workExperience = [
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
+    title: "Frontend Engineer",
     desc: "Developed and maintained user-facing features using modern frontend technologies.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
