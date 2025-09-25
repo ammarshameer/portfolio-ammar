@@ -42,7 +42,7 @@ const Hero = () => {
 
       <div className="flex justify-center relative my-20 z-10">
         <div className="max-w-[89vw] md:max-w-2xl lg:max-w-[60vw] flex flex-col items-center justify-center">
-          <p className="uppercase tracking-widest text-xs text-center text-blue-100 max-w-80">
+          <p className="uppercase tracking-widest text-xl text-center text-blue-100 max-w-md">
             Dynamic Web Magic with Next.js
           </p>
 
@@ -51,14 +51,15 @@ const Hero = () => {
            *
            *  change md:text-6xl, add more responsive code
            */}
+          <p className="text-center md:tracking-wider mb-4 text-sm font-bold md:text-lg lg:text-5xl max-w-xl mt-4">
+            Hi! <span className="text-purple">I&apos;m Ammar</span>, a Next.js Developer.
+          </p>
           <TextGenerateEffect
             words="Transforming Concepts into Seamless User Experiences"
-            className="text-center text-[40px] md:text-5xl lg:text-6xl"
+            className="text-center text-[20px] md:text-5xl lg:text-3xl max-w-xl"
           />
 
-          <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Ammar, a Next.js Developer based in Pakistan.
-          </p>
+
 
           <a href="#about">
             <MagicButton
