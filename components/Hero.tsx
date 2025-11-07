@@ -52,7 +52,7 @@ const Hero = () => {
            *  change md:text-6xl, add more responsive code
            */}
           <p className="text-center md:tracking-wider mb-4 text-sm font-bold md:text-lg lg:text-5xl max-w-xl mt-4">
-            Hi! <span className="text-purple">I&apos;m Ammar</span>, a Next.js Developer.
+            Hi! <span className="text-purple">I&apos;m Ammar</span>, a  Frontend Engineer.
           </p>
           <TextGenerateEffect
             words="Transforming Concepts into Seamless User Experiences"
