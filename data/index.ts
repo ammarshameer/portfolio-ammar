@@ -76,7 +76,7 @@ export const projects = [
     des: "The Ultimate Auto Repair Workshop Management Solution. Development of a flexible and highly customizable design system using Next.js for front-end and ASP.NET for backend structure.",
     img: "/cover-01.webp",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "autofixia.pk",
+    link: "https://autofixia.com/",
   },
   {
     id: 2,
@@ -84,7 +84,7 @@ export const projects = [
     des: "A modern website built for an emerging school system.",
     img: "/cover-02.webp",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "royalSchool.com",
+    link: "https://royalschoolsystems.com/",
   },
   {
     id: 3,
@@ -92,7 +92,7 @@ export const projects = [
     des: "Built a custom Zapier web application to automate workflows and connect third-party services.",
     img: "/zapier.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "zapier.com",
+    link: "https://zapier.com",
   },
   {
     id: 4,
@@ -100,7 +100,7 @@ export const projects = [
     des: "Developed a modern eCommerce platform with product listings, cart functionality, and secure checkout.",
     img: "/fortTeam.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "fortTeam.com",
+    link: "https://ammarshameer.github.io/fortTeam/",
   },
 ];
 
